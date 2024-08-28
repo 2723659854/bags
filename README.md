@@ -5,3 +5,8 @@
 ```bash 
 php -d phar.readonly=0 .\index.php
 ```
+
+### php靜態文件下載
+https://github.com/dixyes/lwmbs/actions
+
+
