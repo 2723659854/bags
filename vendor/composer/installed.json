@@ -1,0 +1,54 @@
+{
+    "packages": [
+        {
+            "name": "xiaosongshu/animation",
+            "version": "v0.0.5",
+            "version_normalized": "0.0.5.0",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/2723659854/animation.git",
+                "reference": "ed5e51370758cccd31b9ac6c6bb23a9dba535065"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/2723659854/animation/zipball/ed5e51370758cccd31b9ac6c6bb23a9dba535065",
+                "reference": "ed5e51370758cccd31b9ac6c6bb23a9dba535065",
+                "shasum": ""
+            },
+            "require": {
+                "php": ">=8.0"
+            },
+            "time": "2024-08-23T02:31:56+00:00",
+            "type": "library",
+            "installation-source": "dist",
+            "autoload": {
+                "psr-4": {
+                    "Xiaosongshu\\Animation\\": "src/"
+                }
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "MIT"
+            ],
+            "authors": [
+                {
+                    "name": "yanglong",
+                    "email": "2723659854@qq.com"
+                }
+            ],
+            "description": "一款php制作的控制台动画渲染工具",
+            "keywords": [
+                "2d",
+                "3d",
+                "animation"
+            ],
+            "support": {
+                "issues": "https://github.com/2723659854/animation/issues",
+                "source": "https://github.com/2723659854/animation/tree/v0.0.5"
+            },
+            "install-path": "../xiaosongshu/animation"
+        }
+    ],
+    "dev": true,
+    "dev-package-names": []
+}

@@ -1,0 +1,12 @@
+#!/usr/bin/env php
+<?php
+(
+function () use ($argv) {
+    /** 加载索引文件 */
+    require_once __DIR__ . '/vendor/autoload.php';
+
+    require_once __DIR__.'/Demo.php';
+
+    (new Demo())->run();
+}
+)();
