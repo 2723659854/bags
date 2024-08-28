@@ -8,5 +8,7 @@ php -d phar.readonly=0 .\index.php
 
 ### php靜態文件下載
 https://github.com/dixyes/lwmbs/actions
+https://www.workerman.net/a/1635
+https://www.workerman.net/a/1637
 
 
