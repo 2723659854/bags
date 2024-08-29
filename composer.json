@@ -3,7 +3,7 @@
     "description": "php代码打包服务，将php代码打包成为可执行文件，兼容windows和linux",
     "type": "project",
     "license": "MIT",
-    "keywords": ["compiler","windows","linux","exe","bin"],
+    "keywords": ["compiler","pack","windows","linux","exe","bin"],
     "autoload": {},
     "authors": [
         {
