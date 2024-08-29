@@ -1,6 +1,6 @@
 {
     "require": {
         "xiaosongshu/animation": "^0.0.5",
-        "php": ">=7.2"
+        "php": ">=8.0"
     }
 }
