@@ -1,9 +1,9 @@
 {
     "name": "xiaosongshu/bags",
-    "description": "php代码打包服务，将php代码打包成为可执行文件，兼容windows和linux",
+    "description": "PHP code packaging service, which packages PHP code into executable files, compatible with Windows and Linux.",
     "type": "project",
     "license": "MIT",
-    "keywords": ["compiler","pack","windows","linux","exe","bin"],
+    "keywords": ["compiler","pack","windows","linux","exe","bin","php"],
     "autoload": {},
     "authors": [
         {
