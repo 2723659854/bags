@@ -1,4 +1,4 @@
 <?php
-require_once __DIR__.'/Demo.php';
+require_once __DIR__.'/Tool.php';
 
-(new Demo())->make();
+(new Tool())->make();
